@@ -1,0 +1,18 @@
+body{
+    background-color:beige;
+    margin: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+img{
+    width: 30px;
+}
+html{
+	scroll-behavior: smooth;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
